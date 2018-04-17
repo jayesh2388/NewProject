@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50883" started-at="2018-04-16T15:52:47Z" finished-at="2018-04-16T15:53:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50883" started-at="2018-04-16T15:52:47Z" finished-at="2018-04-16T15:53:38Z">
+      <class name="automationFramework.MDPREditDareToCareExecutive">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:automationFramework.MDPREditDareToCareExecutive@464bee09]" name="beforeMethod" is-config="true" duration-ms="372" started-at="2018-04-16T15:52:47Z" finished-at="2018-04-16T15:52:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void automationFramework.MDPREditDareToCareExecutive.MDPREditDareToCareExecutive() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MDPREditDareToCareExecutive()[pri:0, instance:automationFramework.MDPREditDareToCareExecutive@464bee09]" name="MDPREditDareToCareExecutive" duration-ms="49960" started-at="2018-04-16T15:52:47Z" finished-at="2018-04-16T15:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MDPREditDareToCareExecutive -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:automationFramework.MDPREditDareToCareExecutive@464bee09]" name="afterMethod" is-config="true" duration-ms="455" started-at="2018-04-16T15:53:37Z" finished-at="2018-04-16T15:53:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MDPREditDareToCareExecutive status=SUCCESS method=MDPREditDareToCareExecutive.MDPREditDareToCareExecutive()[pri:0, instance:automationFramework.MDPREditDareToCareExecutive@464bee09] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.MDPREditDareToCareExecutive -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
