@@ -15,7 +15,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class AFSCaseCapture extends BaseClass  {
 
-  @Test
+  @Test(priority=1)
 	public void AFSCaseCapture() throws Exception {
 		TestExecution exeKey = new TestExecution();
 		Properties prop;
